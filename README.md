@@ -17,3 +17,14 @@ all the context that this program generally implements in restaurants. It will f
 show the Menu with different Food Items like Fast Food, Normal Food and Drinks
 like Pepsi, Coca-Cola with Different categories and also calculate the Bill at the
 End of the Program.
+
+
+
+## FEATURES:
+
+● Different Food categories with Prices.
+● Much Improved user interference on Console.
+● Orders More than one item with different categories.
+● Error checking at the time of user input.
+
+
