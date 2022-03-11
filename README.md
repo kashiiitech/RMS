@@ -44,7 +44,6 @@ End of the Program.
 
 # Here are the some outputs of the Projects
 
-![asm1](https://user-images.githubusercontent.com/kashiiitech/109112661-d63dc100-775c-11eb-9718-fc0903d53c79.png)
 ![asm1](https://github.com/kashiiitech/RMS/blob/f67794f174a0ff93dac088995f4a7ed433e27998/splitstringJS.png)
 
 
