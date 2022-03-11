@@ -23,8 +23,11 @@ End of the Program.
 ## FEATURES:
 
 ● Different Food categories with Prices.
+
 ● Much Improved user interference on Console.
+
 ● Orders More than one item with different categories.
+
 ● Error checking at the time of user input.
 
 
