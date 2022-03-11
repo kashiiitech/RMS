@@ -46,4 +46,12 @@ End of the Program.
 
 ![output1](https://github.com/kashiiitech/EE2003-COAL/blob/d348d37ded386efbbc52cf92c8b71c1510831d26/Project/Outputs/1.png)
 
+![output2](https://github.com/kashiiitech/EE2003-COAL/blob/d348d37ded386efbbc52cf92c8b71c1510831d26/Project/Outputs/2.png)
+
+![output2](https://github.com/kashiiitech/EE2003-COAL/blob/d348d37ded386efbbc52cf92c8b71c1510831d26/Project/Outputs/3.png)
+
+![output2](https://github.com/kashiiitech/EE2003-COAL/blob/d348d37ded386efbbc52cf92c8b71c1510831d26/Project/Outputs/4.png)
+
+![output2](https://github.com/kashiiitech/EE2003-COAL/blob/d348d37ded386efbbc52cf92c8b71c1510831d26/Project/Outputs/5.png)
+
 
