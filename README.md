@@ -4,5 +4,5 @@ RMS The project has been implemented in low level Assembly language X86 ...
 
 
 
-### EE-2003
-#### Computer Organization and Assembly Language
+## EE-2003
+## Computer Organization and Assembly Language
