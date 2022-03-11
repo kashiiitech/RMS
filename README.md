@@ -31,3 +31,14 @@ End of the Program.
 ● Error checking at the time of user input.
 
 
+## TOOLS & TECHNIQUE:
+
+● Visual Studio Code
+● Windows 10
+● Irvine32 library
+● Assembly Language x86
+
+
+
+
+
