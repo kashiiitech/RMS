@@ -44,4 +44,6 @@ End of the Program.
 
 # Here are the some outputs of the Projects
 
+splitstringJS.png
+
 
